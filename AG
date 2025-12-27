@@ -4,20 +4,20 @@ local Translations = {
     ["Red Light，Green Light"] = "木头人",
     ["Auto Stop"] = "自动停止",
     ["Disable Injury"] = "移除受伤状态",
-    ["Finsh RLCL"] = "传送到木头人终点",
+    ["Finsh RLCG"] = "传送到木头人终点",
     ["Dalgona"] = "扣糖饼",
     ["Anti Crack"] = "防止破碎",
-    ["Get Ligher"] = "得到免费打火机",
-    ["我也不知道写什么"] = "继续",
-    ["Level"] = "关卡",
-    ["Score"] = "分数",
+    ["Get Lighter"] = "得到免费打火机",
+    ["Anti Crack"] = "糖饼防破碎(有时候有效果，有时候没有。)",
+    ["Auto Dalgona"] = "自动扣糖饼",
+    ["Auto Dalgona V2"] = "自动扣糖饼没用",
     ["Health"] = "生命值",
     ["Mana"] = "魔法值",
     ["Inventory"] = "背包",
     ["Shop"] = "商店",
-    ["Buy"] = "购买",
-    ["Sell"] = "出售",
-    ["Another Example"] = "示例"
+    ["Rebal"] = "反叛",
+    ["Auto shoot Guards"] = "自动击杀守卫(玩家守卫也可击杀。)",
+    ["lnk game|by AlexScriptX"] = "墨水游戏|AG汉化"
 }
 
 local function translateText(text)
